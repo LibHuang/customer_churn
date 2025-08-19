@@ -20,7 +20,7 @@ README.md            # Project overview
 
 ---
 
-## ⚙️ Steps Performed
+## Steps Performed
 1. **Data Loading & Exploration**
    - Imported churn dataset
    - Reviewed dataset size and structure
@@ -47,7 +47,7 @@ README.md            # Project overview
 
 ---
 
-## 📊 Results & Findings
+## Results & Findings
 - **Top Models**  
   - Boosting algorithms (**XGBoost, LightGBM, CatBoost**) achieved the **highest ROC-AUC scores**.  
   - Random Forest also performed strongly compared to baseline models.  
